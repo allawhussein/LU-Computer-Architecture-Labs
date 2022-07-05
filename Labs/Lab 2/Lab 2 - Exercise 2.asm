@@ -48,4 +48,5 @@
 	#print the failure message on the screen
 	
 	terminateProgram:
-	
+	li $v0 10
+	syscall
