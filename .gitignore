@@ -1,3 +1,5 @@
 watched/
 *.mp4
-
+Sessions/
+Summaries/
+.gitignore
